@@ -1,5 +1,5 @@
 "# Python" 
-"Döngüler\n"
+"Döngüler"
 "Break & Continue"
 "Comprehensions"
   "List compherensions"
