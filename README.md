@@ -1,1 +1,7 @@
 "# Python" 
+"Döngüler"
+"Break & Continue"
+"Comprehensions"
+  "List compherensions"
+  "Dictionary compherensions"
+ "Algoritma"
