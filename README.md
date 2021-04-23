@@ -1,4 +1,4 @@
-"# Python" 
+"# Python"
 "Döngüler"
 "Break & Continue"
 "Comprehensions"
